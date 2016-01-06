@@ -11,7 +11,7 @@ ___
 http://htmlpreview.github.io/?https://github.com/simplon-davidt/exocss/blob/master/selecteur.html
 
 2. exo 2
-pas encore...
+http://htmlpreview.github.io/?https://github.com/simplon-davidt/exocss/blob/master/indicateur.html
 
 3. exo 3
 http://htmlpreview.github.io/?https://github.com/simplon-davidt/exocss/blob/master/tableau.html
