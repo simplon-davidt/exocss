@@ -1,7 +1,7 @@
 # exocss
 Pour travailler un peu vos css, avec display, nth-child, first-child, last-child et les sélecteurs...
 
-[###Consignes :](http://htmlpreview.github.io/?https://github.com/simplon-davidt/exocss/blob/master/index.html)
+###[Consignes :](http://htmlpreview.github.io/?https://github.com/simplon-davidt/exocss/blob/master/index.html)
 
 ###Aperçus en ligne
 
