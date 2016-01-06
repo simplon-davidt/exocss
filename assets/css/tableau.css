@@ -1,0 +1,7 @@
+li {
+  background: #fff;
+}
+/* sélectionne un item sur deux, en commençant par le deuxième */
+li:nth-of-type(2n) {
+  background: #888;
+}
