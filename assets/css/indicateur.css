@@ -4,4 +4,13 @@
     height:100px;
     width:100px;
     border:2px solid #679403;
+    display: inline-block;
+}
+
+.indicateur li:last-child {
+  background: #f00;
+}
+
+.indicateur li:nth-child(4), li:nth-child(7) {
+  background: #f00;
 }
